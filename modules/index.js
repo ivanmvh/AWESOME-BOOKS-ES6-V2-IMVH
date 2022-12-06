@@ -1,5 +1,5 @@
 import AwesomeBooks from './awesomebooks.js';
-/*import './luxon_clock.js'; */
+import './luxon_clock.js';
 
 const btnAdd = document.getElementById('btn-add');
 const listSec = document.getElementById('list-sec');
