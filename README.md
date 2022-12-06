@@ -5,7 +5,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Awesome Books - ES6</b></h3>
 
 </div>
 
@@ -35,9 +35,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Awesome-books-ES6] <a name="about-project"></a>
 
-"Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list. By building this application, we learned how to manage data using JavaScript. Thanks to that your website will be more interactive. We used a medium-fidelity wireframe to build the UI.
+"Awesome books-ES6" is a simple website that displays a list of books and allows you to add and remove books from that list. By building this application, we learned how to manage data using JavaScript. Thanks to that your website will be more interactive. We used a medium-fidelity wireframe to build the UI.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -61,7 +61,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo Link] (...come soon)
+[Live Demo Link] (https://ivanmvh.github.io/AWESOME-BOOKS-ES6-V2-IMVH/#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,12 +102,6 @@ To remove a book from the list:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-👤 **Juan Carlos Sanchez**
-
-- GitHub: [@Juank628](https://github.com/Juank628)
-- Twitter: [@juancadev81](https://twitter.com/juancadev81)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/juan-carlos-sanchez-zunino-271b5151)
 
 👤 **Ivan Martinez von Halle**
 
