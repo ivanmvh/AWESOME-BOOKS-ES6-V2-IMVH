@@ -47,6 +47,8 @@
 - HTML
 - JavaScript
 - CSS
+- ES6
+- Modules (import, export)
 
 <!-- Features -->
 
@@ -85,7 +87,8 @@ git clone git@github.com:Juank628/awesome_books.git
 
 Install this project with:
 
-npm install
+Linters installation
+webhint - npm install --save-dev hint@7.x stylelint - npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x ESLint - npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x
 
 ### Usage
 
