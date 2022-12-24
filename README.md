@@ -53,7 +53,6 @@ In this project, we build a basic website that allows users to add/remove books 
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 - Create a collection that keeps a list of books (hint: you can use an array of objects for that).
 - Create a function to add a new book to the collection, with title and author.
 - Create a function to remove a book from the collection (hint: you can use the array filter() method).
